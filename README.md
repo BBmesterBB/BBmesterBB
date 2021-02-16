@@ -1,0 +1,4 @@
+- 👋 Sziasztok én, @BBmesterBB vagyok.
+- 👀 Érdeklődési köröm: programozás, zenei világ, valamint sok egyéb más is...
+- 🖥️ Általam tanult nyelvek: Python, Java, C#
+- 📫 barthab2001@gmail.com
